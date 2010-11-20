@@ -13,7 +13,8 @@
 			<div id="container" style="width: 800px;" align="left">
 				<h1>Home</h1>
 				<span id="welcome">
-					Bem vindo <b>#{usuarioWeb.usuario.login}</b> a Lojinha da JavaCE Social.
+					Parabéns, sua aplicação está configurada corretamente!<br/><br/>
+					E seja bem vindo a Lojinha da JavaCE Social.
 				</span>
 			</div>
 		</div>
